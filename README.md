@@ -1,1 +1,1 @@
-A brief walkthrough in Jupyter Notebook of some COVID data analytics. Further analysis was conducted with Prof. Harlin Lee whom encouraged me to upload some of my findings.
+A brief walkthrough in Jupyter Notebook of some data analytics I performed on the CHIS-2020 COVID dataset. Further analysis was conducted with Prof. Harlin Lee whom encouraged me to upload some of my findings.
